@@ -22,7 +22,7 @@ export default function Bmi() {
           <label htmlFor="" className="font-kanit font-bold">ป้อนน้ำหนัก (Kg)</label>
           <input type="number" name="" id="" className="border border-gray-500 rounded-sm p-2"/>
 
-          <label htmlFor="" className="font-kanit font-bold mt-5">ป้อนน้ำหนัก (cm)</label>
+          <label htmlFor="" className="font-kanit font-bold mt-5">ป้อนส่วนสูง (cm)</label>
           <input type="number" name="" id="" className="border border-gray-500 rounded-sm p-2"/>
 
           <button className="bg-blue-600 text-white p-2 mt-3 rounded-sm font-kanit font-bold hover:bg-blue-800 cursor-pointer">
